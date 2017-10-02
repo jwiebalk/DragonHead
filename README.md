@@ -12,3 +12,7 @@ Code for Arduino controlling head movements for Drabbit from [Imaginarium Galler
 ###
 
 Cable stops attach to the cable provided with the Drabbit, attach the servos to these.
+
+### TODO
+
+*Make movements more lifelike
